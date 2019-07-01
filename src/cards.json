@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Howl",
-      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/9/9b/Howl_%282%29.jpg/revision/latest?cb=20181014024105",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/1/1b/Howl.png/revision/latest?cb=20110702010034",
       "count": 0
     },
     {
@@ -19,14 +19,14 @@
     },
     {
       "id": 4,
-      "name": "Ponyo",
-      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/a/ab/Ponyo_%281%29.jpg/revision/latest?cb=20181017004727",
+      "name": "Granmammare",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/4/43/Granmammare.png/revision/latest?cb=20181029034955",
       "count": 0
     },
     {
       "id": 5,
       "name": "San",
-      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/3/3f/San.jpg/revision/latest?cb=20181028001703",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/4/4b/San_%282%29.jpg/revision/latest?cb=20110702000009",
       "count": 0
     },
     {
@@ -44,7 +44,7 @@
     {
       "id": 8,
       "name": "Arietty",
-      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/6/6f/Arrietty.png/revision/latest?cb=20181024033322",
+      "image": "https://vignette.wikia.nocookie.net/studio-ghibli/images/d/d7/Arrietty_%282%29.png/revision/latest?cb=20111230012557",
       "count": 0
     }
   ]
